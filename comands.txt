@@ -1,0 +1,24 @@
+commit fee162c86131c7d1a9b24057b54be0798fd4c0a2 (HEAD -> allcomands, master)
+Author: unknown <natalija.markoska@students.finki.ukim.mk>
+Date:   Wed Apr 4 17:49:02 2018 +0200
+
+    log smena
+
+diff --git a/log.txt b/log.txt
+new file mode 100644
+index 0000000..79c6690
+--- /dev/null
++++ b/log.txt
+@@ -0,0 +1,11 @@
++commit 8fa61ffbb04c62bfb77b9170b158e476be3c47dc (HEAD -> master, origin/master, logging)
++Author: unknown <natalija.markoska@students.finki.ukim.mk>
++Date:   Wed Apr 4 17:25:27 2018 +0200
++
++    modify l1.txt
++
++commit 85506656a9cb54d923862d06a928e8ecd679067c
++Author: unknown <natalija.markoska@students.finki.ukim.mk>
++Date:   Wed Apr 4 17:17:13 2018 +0200
++
++    Initial commit
+\ No newline at end of file
